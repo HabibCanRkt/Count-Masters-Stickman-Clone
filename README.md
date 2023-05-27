@@ -1,8 +1,3 @@
-# Count Masters: Stickman Games(Clone)
- Count Masters: Stickman Games (Clone) project for Game Factory Kuluçka Qualification
-  
-# You can find the UI Elements in the UIElements folder.
-
 # You can find the 3D Elements in the 3DModels folder under the Prefabs folder.
 
 # How To Launch Completed Level
