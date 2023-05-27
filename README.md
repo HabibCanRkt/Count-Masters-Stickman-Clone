@@ -1,10 +1,5 @@
 # Count Masters: Stickman Games(Clone)
  Count Masters: Stickman Games (Clone) project for Game Factory Kuluçka Qualification
- 
-# Team Members 
-1-Developer - Oguzhan YILDIZ - https://github.com/oguzhan00yildiz - oguzhan00yildiz@gmail.com \
-2-Developer - Mansur BESLENEY - https://github.com/MansurBesleney - besleneymansur@gmail.com \
-3-UI/UX-2D/3D Artist - Muhammed Yasin ERZURUMLUOGLU - https://github.com/Skyrodalf - yasin23966@gmail.com 
   
 # You can find the UI Elements in the UIElements folder.
 
